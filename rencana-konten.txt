@@ -1,5 +1,7 @@
 rencana konten 
 
 pytton
+*fundamental 1
+*fundamental 2
 vlog
 powe bi
