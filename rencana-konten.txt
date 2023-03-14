@@ -1,9 +1,11 @@
 rencana konten 
 
-pytton
+
 *fundamental 1
 *fundamental 2
 vlog
+*belajar figma
+*belajar wodpress
 *data analisis
 *windos fungsion
 powe bi
