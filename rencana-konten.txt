@@ -10,3 +10,4 @@ powe bi
 *visualisasi
 *dax syintax
 *dasbord
+*detail insgft
