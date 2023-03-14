@@ -7,3 +7,6 @@ vlog
 *data analisis
 *windos fungsion
 powe bi
+*visualisasi
+*dax syintax
+*dasbord
