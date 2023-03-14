@@ -4,4 +4,6 @@ pytton
 *fundamental 1
 *fundamental 2
 vlog
+*data analisis
+*windos fungsion
 powe bi
